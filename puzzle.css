@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .pluzzle{
+    display: flex;
+    align-items: center;
+ 
+} */
+/* centrar el pluzzle */
+.container-pluzzle{
+    margin: auto;
+    width:auto;
+  /*   border: solid 2px rebeccapurple; */
+}
